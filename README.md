@@ -2,6 +2,6 @@
 ## Coming Soon ...
 - Faster
 - More efficient
-- More roboust
+- More robust
 - New dataset
 ![figure4](https://github.com/Omid-Nejati/MedViT-V2/blob/main/Fig/cover.jpg)
